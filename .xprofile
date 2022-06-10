@@ -1,0 +1,11 @@
+/usr/bin/pipewire &
+/usr/bin/pipewire-pulse &
+/usr/bin/pipewire-media-session &
+clipmenud &
+flameshot &
+sxhkd &
+picom --experimental-backend &
+nitrogen --restore &
+setxkbmap latam &
+exec bspwm
+
