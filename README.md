@@ -31,7 +31,7 @@ Dot files of my **ArchLinux** configuration
 
 # Important notes
 
-Polybar is launched in the bspwmrc file 10 seconds later of the initialization of the window manager, this is maded for wait to pulseaudio module in polybar to be ready for use otherwise the module wont work.
+Polybar is launched in the bspwmrc file 10 seconds later of the initialization of the window manager, this is maded for wait to pulseaudio module in polybar to be ready for use, otherwise the module wont work.
 I dont know how to fix it and this is my temporal solution, if you know how can i fix it let me know :)
 
 
